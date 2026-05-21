@@ -1,0 +1,21 @@
+# OneDrive / système
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache Claude
+.claude/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*~
+
+# IDE
+.vscode/
+.idea/
